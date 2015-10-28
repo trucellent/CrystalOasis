@@ -1,2 +1,5 @@
 # CrystalOasis
-Here is my/our reporsitory for C"rystal Oasis" (TBD) game project using leap-motion controller.
+Third-person surviving-exploration game in which your a dragon.
+Made by ~ Awww, Some Game Group
+
+Here is our reporsitory for "Crystal Oasis" (title TBD) game project using leap-motion controller.
